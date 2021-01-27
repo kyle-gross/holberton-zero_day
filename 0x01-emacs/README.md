@@ -9,3 +9,5 @@ This directory contains files that contain specific Emacs commands
 4-searching - how to search forward
 5-undoing - how to undo
 6-quitting - how to quit Emacs
+100-tetris - how to play Tetris inside Emacs
+101-doctor - how to talk to your doctor
