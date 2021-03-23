@@ -1,3 +1,2 @@
-#0x03-git
-
-This is an update from github.com
+# Intro to Git
+* A short introduction to Git and Github
